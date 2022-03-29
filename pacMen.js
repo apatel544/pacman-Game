@@ -1,4 +1,5 @@
 var pos = 0;
+
 const pacArray = [
   ['./images/PacMan1.png', './images/PacMan2.png'],
   ['./images/PacMan3.png', './images/PacMan4.png'],
@@ -15,8 +16,8 @@ function setToRandom(scale) {
 // Factory to make a PacMan at a random position with random velocity
 function makePac() {
   // returns an object with random values scaled {x: 33, y: 21}
-  let velocity = setToRandom(10); // {x:?, y:?}
-  let position = setToRandom(200);
+  let velocity = setToRandom(20); // {x:?, y:?}
+  let position = setToRandom(500);
   // Add image to div id = game
   let game = document.getElementById('game');
   let newimg = document.createElement('img');
@@ -70,4 +71,9 @@ function checkCollisions(item) {
 
 function makeOne() {
   pacMen.push(makePac()); // add a new PacMan
+}
+
+function reset() {
+  location.reload();
+  return false;
 }

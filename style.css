@@ -5,4 +5,10 @@ body {
 .btn {
   height: 50px;
   font-size: 25px;
+  background-color: yellow;
+  padding: 10px;
+}
+
+.btns {
+  padding-top: 50px;
 }
