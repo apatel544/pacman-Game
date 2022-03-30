@@ -1,4 +1,4 @@
-# pacmen
+# PacMen Factory
 
 Factory for making pacmen. This app producs a PacMan on the click of a button by using array methods and DOM manipulation to animate them across the screen at random speeds. 
 
