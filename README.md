@@ -6,11 +6,11 @@ Some ideas I have for this would be to add the four different ghosts Inky, Blink
 
 ## How To Get Open on your local
     
-   You need to clone to repository and open the index.html file.
+   1. You need to clone to repository and open the index.html file.
     
    or
    
-   You can navigate to [PacMen Factory](https://github.com/apatel544/pacman-Game)
+   2. You can navigate to [PacMen Factory](https://github.com/apatel544/pacman-Game)
     
 
 
