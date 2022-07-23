@@ -10,7 +10,7 @@ Some ideas I have for this would be to add the four different ghosts Inky, Blink
     
    or
    
-   2. You can navigate to [PacMen Factory](https://github.com/apatel544/pacman-Game)
+   2. You can navigate to [PacMen Factory](https://apatel544.github.io/pacman-Game/)
     
 
 
